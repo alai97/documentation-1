@@ -29,6 +29,14 @@ Accounting: Chart of Accounts`.
 .. tip::
     When you create a new Odoo Online database, **Spain - SMEs (2008)** is installed by default.
 
+.. seealso::
+   :doc:`E-invoicing documentation for
+   Spain <../accounting/customer_invoices/electronic_invoicing/spain>`
+
+.. seealso::
+   :doc:`E-invoicing documentation for
+   Basque Country <../accounting/customer_invoices/electronic_invoicing/basque_country>`
+
 Taxes
 =====
 

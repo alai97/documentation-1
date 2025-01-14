@@ -15,6 +15,10 @@ Be careful, you can only change the accounting package as long as you have not c
 
     When you create a new Odoo Online database, the SKR03 is installed by default.
 
+.. seealso::
+   :doc:`E-invoicing documentation for
+   Germany <../accounting/customer_invoices/electronic_invoicing/germany>`
+
 German Accounting Reports
 =========================
 

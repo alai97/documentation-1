@@ -24,6 +24,10 @@ localization.
 .. image:: romania/romania-modules.png
    :alt: Modules for the Romanian localization
 
+.. seealso::
+   :doc:`E-invoicing documentation for
+   Romania <../accounting/customer_invoices/electronic_invoicing/romania>`
+
 D.406 declaration
 =================
 

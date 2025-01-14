@@ -33,6 +33,10 @@ localization:
      - `l10n_it_stock_ddt`
      - Transport documents - Documento di Trasporto (DDT)
 
+.. seealso::
+   :doc:`E-invoicing documentation for
+   Italy <../accounting/customer_invoices/electronic_invoicing/italy>`
+
 Company information
 -------------------
 

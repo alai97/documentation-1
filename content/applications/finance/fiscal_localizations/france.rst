@@ -371,6 +371,10 @@ specific to France:
 - Compte de résultats
 - Plan de Taxes France
 
+.. seealso::
+   :doc:`E-invoicing documentation for
+   France <../accounting/customer_invoices/electronic_invoicing/france>`
+
 .. _localization/france/liasse-fiscale:
 
 Liasse fiscale

@@ -20,3 +20,7 @@ to some reports that are specific to the Netherlands such as :
 -  Profit & Loss
 -  Tax Report (Aangifte omzetbelasting)
 -  Intrastat Report (ICP)
+
+.. seealso::
+   :doc:`E-invoicing documentation for
+   the Netherlands <../accounting/customer_invoices/electronic_invoicing/netherlands>`

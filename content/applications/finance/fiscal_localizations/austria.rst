@@ -24,6 +24,10 @@ localization.
      - `l10n_at_saft`
      - Adds the SAF-T export.
 
+.. seealso::
+   :doc:`E-invoicing documentation for
+   Austria <../accounting/customer_invoices/electronic_invoicing/austria>`
+
 Financial reports
 =================
 
