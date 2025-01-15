@@ -34,7 +34,7 @@ modified at any time.
 
 .. important::
    If there is no specific pricelist configured on a sales quotation, the :guilabel:`Default`
-   pricelist will be applied.
+   pricelist is applied.
 
 .. note::
    The :guilabel:`Selectable` column is only applicable to Odoo **eCommerce**. This option allows
@@ -44,13 +44,13 @@ modified at any time.
    In Odoo 17 (and above), you are *not required* to enter a pricelist in the :guilabel:`Pricelist`
    field on a sales quotation form in order to confirm it (i.e. turn it into a sales order).
 
-   The chatter section is available in Odoo 17 and above on pricelist forms, which allows you to add
+   The chatter section is available on pricelist forms, which allows you to add
    notes and communications on each pricelist page.
 
 Editing and creating pricelists
 -------------------------------
 
-From the :guilabel:`Pricelists` page, either select the pricelist you would like to edit, or click
+From the :guilabel:`Pricelists` page, either select the pricelist to edit, or click
 :guilabel:`New` to create a new pricelist, which reveals a blank pricelist form that can be
 configured in a number of different ways.
 
@@ -80,7 +80,7 @@ Then, select whether to apply this set of rules to a :guilabel:`Product` or
 
 From here, there are several configuration options:
 
-- :guilabel:`Product`: Select one or more products to which this pricelist will apply.
+- :guilabel:`Product`: If selected in the :guilabel:`Apply To` field, use this field to choose one or more products to which this pricelist will apply.
 - :guilabel:`Category`: Select one or more product categories to which this pricelist will apply.
 - :guilabel:`Price Type`: Select whether the specialized pricing will fall under
   :guilabel:`Discount`, :guilabel:`Formula`, or :guilabel:`Fixed Price`. Depending on the price
@@ -116,7 +116,6 @@ From here, there are several configuration options:
    :guilabel:`Margins` to `5`. This is often seen in retail situations.
 
    .. image:: pricing/formula-markup-cost-example.png
-      :align: center
       :alt: How it looks to formulate a markup cost with 5 dollar minimum margin in Odoo Sales.
 
 .. example::
@@ -125,7 +124,6 @@ From here, there are several configuration options:
    to `-0.01`, and the :guilabel:`Rounding Method` field to `10`.
 
    .. image:: pricing/formula-discount-example.png
-      :align: center
       :alt: Example of a 20% discount with prices rounded to 9.99 in Odoo Sales.
 
 .. tip::
